@@ -1,0 +1,9 @@
+AccountName:Vineet Rathi
+AccountNo :5467
+Amount:10000
+AccountType:SAVING
+Rate of Interest :10
+Deduction @time :2022-09-28T11:30:19.157741162345
+success check_log.txt 
+
+ Amount AVAILABLE :9655
